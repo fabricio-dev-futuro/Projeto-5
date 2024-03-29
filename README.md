@@ -1,6 +1,5 @@
 # Projeto-6-Análise-de-Vendas
 
-
 O Objetivo desse projeto é identificar numa base de Vendas, quais produtos mais venderam em quantidade, quais mais faturaram e qual foi a loja que mais obteve faturamento dentre todas as cidades que possuem tal loja.
 
 Descrição do Projeto:
