@@ -14,3 +14,16 @@ Descrição do Projeto:
 - Depois foi verificado o produto que mais obteve faturamento. Nessa etapa, foi criada uma nova coluna chamada "Faturamento";
 - No processo seguinte, é construido a análise de qual foi a cidade que mais teve faturamento nas vendas. Foi feito a consulta da soma dos Faturamentos  agrupando por Lojas;
 - E por fim, com essa informação de faturamento das lojas foi plotado um gráfico com dados de Loja x Faturamento para enxergar visualmente o comportamento das rendas por cidade.
+
+#
+Recursos usados no código:
+
+- Pacote os;
+- Pacote Pandas para manipulação de daraframe;
+- Pacote Plotly para geração de gráficos;
+- Pacote fpdf para gerar arquivo PDF com o resultado da análise;
+- Loop for;
+- Condicional: if ;
+- Operador lógico: in ;
+- Função de agrupamento "groupby( )" ;
+- Função de soma "sum( )" .
